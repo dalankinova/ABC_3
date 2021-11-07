@@ -1,0 +1,10 @@
+triangle красный 1 1 2 2 1 3
+triangle желтый 1 1 2 2 1 4
+triangle зеленый 1 1 2 2 1 5
+triangle синий 1 1 2 2 1 6
+triangle черный 1 1 2 2 1 7
+triangle белый 1 1 2 2 1 8
+triangle фиолетовый 1 1 2 2 1 9
+triangle оранжевый 1 1 2 2 1 10
+triangle серо-буро-малиновый 1 1 2 2 1 11
+triangle_not красный 1 1 2 2 1 12

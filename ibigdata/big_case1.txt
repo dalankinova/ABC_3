@@ -1,0 +1,1000 @@
+triangle фиолетовый 38 -100 51 -26 1 97
+circle красный 29 -39 -9
+triangle желтый -10 -34 0 -58 -70 33
+circle голубой -83 -38 -34
+rectangle синий -54 72 14 41
+triangle фиолетовый 39 98 24 -60 -30 -68
+circle синий -70 82 47
+triangle голубой -29 83 33 34 -67 -99
+figure красный
+rectangle зеленый -77 -39 41 21
+figure фиолетовый
+circle синий 80 5 56
+triangle оранжевый -4 -55 98 73 76 -53
+rectangle желтый -72 52 44 76
+rectangle голубой 42 -13 -86 -52
+figure синий
+circle голубой -14 92 -6
+figure оранжевый
+circle фиолетовый -78 44 98
+figure красный
+circle красный 48 -42 -74
+circle красный 67 -47 -50
+figure голубой
+circle желтый 20 1 31
+rectangle красный 62 -99 -60 -86
+circle голубой 3 -99 9
+triangle голубой -91 21 76 -81 62 78
+rectangle зеленый -53 22 49 76
+rectangle красный 98 48 -47 6
+circle зеленый -53 -32 36
+rectangle красный -69 -28 9 57
+circle зеленый -7 4 24
+rectangle фиолетовый 35 20 40 46
+rectangle оранжевый 57 -16 65 -40
+figure оранжевый
+circle желтый 44 53 -36
+figure оранжевый
+triangle голубой 16 34 67 -98 -16 91
+rectangle фиолетовый -14 -99 -3 82
+triangle голубой -93 88 29 58 -9 -66
+circle синий -68 -37 84
+circle оранжевый -24 -60 90
+figure желтый
+triangle красный 50 99 8 -87 59 22
+figure фиолетовый
+circle зеленый 82 -70 -11
+triangle оранжевый 43 -82 12 9 -82 61
+circle красный -21 -43 -15
+circle красный 76 100 81
+triangle синий -54 -80 77 45 -4 17
+circle зеленый -79 -89 -53
+circle зеленый -36 81 -24
+circle фиолетовый 14 -70 -23
+triangle синий 15 -27 70 52 -99 30
+rectangle оранжевый -29 -6 -77 -10
+triangle зеленый 39 63 -10 -35 5 -54
+circle желтый 23 61 -15
+figure оранжевый
+rectangle красный -97 -67 74 25
+triangle желтый -96 -16 -97 44 -36 -4
+figure красный
+figure красный
+circle оранжевый -90 20 83
+circle фиолетовый 75 56 -3
+triangle фиолетовый -14 -80 14 -85 -38 -89
+figure синий
+triangle оранжевый 89 -96 1 4 -98 57
+triangle желтый -1 -46 96 -51 -40 -7
+rectangle оранжевый -53 53 -93 -86
+rectangle фиолетовый 44 -5 79 -96
+triangle зеленый 99 -43 27 -8 84 -67
+figure голубой
+triangle фиолетовый 6 24 5 25 3 66
+triangle красный -68 89 0 -54 13 -58
+triangle зеленый -98 65 38 -88 87 -69
+figure оранжевый
+triangle желтый 79 -79 81 -2 23 -85
+figure голубой
+circle зеленый 93 -95 3
+triangle оранжевый -14 13 48 -40 16 17
+rectangle красный 24 -9 -22 8
+circle зеленый 28 -34 -69
+triangle красный 5 -55 62 73 4 91
+figure фиолетовый
+rectangle синий 45 56 36 71
+rectangle голубой -22 -31 85 35
+rectangle красный -83 -21 -40 -55
+rectangle красный -73 -38 57 -62
+figure голубой
+rectangle голубой 76 -28 -98 -45
+figure красный
+circle синий -3 -25 -48
+figure голубой
+figure синий
+circle красный 59 -10 17
+triangle синий -38 86 27 55 43 -47
+figure синий
+circle зеленый 38 -91 -61
+circle синий -23 81 94
+figure желтый
+figure фиолетовый
+rectangle фиолетовый 96 39 -81 -13
+circle оранжевый -95 -51 -38
+triangle желтый 13 -79 86 -46 -59 71
+circle красный -39 -27 -49
+rectangle желтый -34 50 16 63
+figure зеленый
+rectangle фиолетовый 5 -50 -47 -47
+circle синий 44 -67 -16
+rectangle красный -92 -45 54 14
+triangle оранжевый -15 -80 -38 -61 -20 -85
+figure фиолетовый
+triangle голубой -58 93 -22 47 43 72
+circle оранжевый -20 -37 -23
+figure зеленый
+rectangle оранжевый -21 85 -92 -12
+rectangle голубой -52 15 -25 -79
+circle голубой 13 65 -41
+figure красный
+circle оранжевый 9 60 -83
+circle красный -68 23 -92
+figure оранжевый
+triangle оранжевый -79 97 -94 -83 -69 19
+figure зеленый
+circle зеленый 94 -22 -13
+figure желтый
+triangle фиолетовый 88 -1 10 -89 -5 -96
+rectangle фиолетовый -50 -4 25 -54
+circle синий -47 54 33
+rectangle фиолетовый 45 -94 21 80
+figure голубой
+triangle желтый 18 -7 -29 -85 33 -12
+circle красный 12 65 43
+triangle оранжевый 87 -82 25 8 -34 74
+figure красный
+rectangle фиолетовый 52 10 -33 -43
+circle синий 48 -71 79
+figure зеленый
+figure фиолетовый
+circle зеленый 92 30 -63
+circle фиолетовый 29 -31 78
+triangle синий -94 -38 93 69 76 -3
+rectangle голубой -54 -91 -32 -1
+rectangle фиолетовый 85 -43 -79 51
+figure синий
+rectangle желтый -66 -48 -89 -38
+rectangle фиолетовый -94 -88 10 -29
+figure желтый
+rectangle зеленый 92 65 13 -39
+circle оранжевый -14 -84 -80
+triangle желтый -72 53 37 39 -35 77
+rectangle оранжевый -45 -91 10 44
+triangle желтый -77 -56 58 98 71 71
+circle синий 63 75 55
+figure желтый
+triangle желтый -14 -19 70 -84 8 -61
+rectangle желтый -61 35 23 64
+triangle оранжевый 4 36 -100 -66 -55 -26
+figure желтый
+triangle голубой 14 -29 69 -83 27 -65
+circle голубой 77 68 -62
+rectangle оранжевый -12 34 -98 -93
+triangle синий 92 -45 15 68 65 42
+rectangle зеленый 91 -98 41 55
+rectangle зеленый 74 -49 -50 -96
+triangle желтый 39 -53 -25 -72 -75 42
+triangle зеленый 7 95 -11 62 74 -88
+circle фиолетовый -5 62 50
+rectangle синий -42 -93 -20 -95
+circle голубой 13 -81 70
+rectangle желтый -93 -63 54 -24
+triangle зеленый -100 -51 -31 7 -58 87
+triangle фиолетовый 35 -4 -53 -2 39 93
+circle оранжевый -15 -52 87
+triangle красный 85 22 -65 -57 80 91
+triangle синий 52 55 42 -41 54 80
+figure голубой
+circle красный -55 68 -41
+rectangle синий 80 82 94 63
+rectangle зеленый 11 50 -59 -52
+triangle зеленый -23 -18 74 27 -96 -65
+figure оранжевый
+circle голубой -81 30 60
+circle фиолетовый -16 59 -42
+figure голубой
+triangle оранжевый -100 52 -97 36 -1 -36
+figure фиолетовый
+triangle фиолетовый 60 -90 37 -14 -93 -16
+triangle оранжевый 12 1 35 63 85 -31
+circle желтый -80 -10 -56
+figure голубой
+figure зеленый
+figure синий
+circle зеленый 39 24 -91
+triangle зеленый -56 74 80 69 92 99
+circle синий 1 70 39
+triangle желтый -87 6 -60 -15 25 -44
+circle красный 39 -94 -43
+figure оранжевый
+rectangle голубой -66 -10 56 -52
+circle оранжевый -36 -8 3
+triangle красный 56 14 -54 -34 74 -68
+circle красный 82 -14 -37
+triangle красный 35 -70 75 46 -3 32
+figure оранжевый
+triangle синий -54 -86 -43 52 -89 -27
+figure зеленый
+triangle фиолетовый 9 -54 65 34 -10 46
+triangle красный -35 -4 -53 71 -14 -40
+rectangle голубой 90 -16 -21 -81
+circle голубой -49 35 -58
+circle желтый -5 -7 -12
+triangle красный 73 55 80 -85 26 22
+circle фиолетовый 2 45 35
+rectangle оранжевый 31 69 77 25
+figure красный
+figure красный
+rectangle фиолетовый -87 -89 -32 -16
+rectangle оранжевый -23 2 -92 -41
+triangle оранжевый 6 55 -31 -24 16 97
+circle желтый 6 -42 51
+triangle синий -21 62 30 87 43 -59
+circle оранжевый -82 -77 -88
+figure желтый
+triangle красный -8 97 80 58 8 30
+figure оранжевый
+circle фиолетовый -25 -69 -61
+rectangle синий 47 -59 -61 78
+figure голубой
+figure фиолетовый
+figure синий
+circle красный 16 -20 60
+figure оранжевый
+triangle синий -24 80 72 -69 40 -60
+circle зеленый 23 93 -38
+circle зеленый -43 63 -66
+figure красный
+circle синий 54 35 63
+figure фиолетовый
+circle желтый -56 -88 -69
+circle желтый -3 14 -59
+rectangle красный -56 6 82 37
+figure синий
+circle красный 29 41 94
+circle оранжевый -62 -19 94
+triangle желтый -56 3 96 -80 86 17
+triangle зеленый -26 18 -68 -17 6 -17
+figure красный
+figure голубой
+triangle красный 16 -48 69 86 -5 79
+circle желтый 34 -95 21
+circle желтый -82 5 -61
+circle оранжевый -88 75 5
+figure красный
+rectangle красный -63 -52 -58 85
+figure желтый
+rectangle оранжевый -40 24 86 15
+triangle синий 79 -66 -94 6 -69 -43
+rectangle желтый -97 -24 -25 60
+rectangle желтый 48 0 31 -16
+rectangle фиолетовый -82 -32 -47 -73
+circle оранжевый 84 70 47
+figure желтый
+circle синий 20 91 -60
+triangle красный 6 -79 4 -44 17 26
+circle зеленый 78 -88 84
+triangle фиолетовый -89 -64 7 24 -48 74
+triangle зеленый -4 -100 -93 47 -98 -1
+triangle оранжевый -50 85 -25 -42 -16 -47
+figure зеленый
+figure зеленый
+triangle фиолетовый -24 93 -3 62 -53 54
+rectangle оранжевый -24 -7 93 11
+circle красный 89 -91 -26
+triangle желтый 54 66 5 -45 -34 -34
+triangle фиолетовый 60 -67 -32 -60 -72 65
+circle оранжевый 79 55 -46
+circle желтый -94 -83 19
+triangle фиолетовый -92 80 -21 21 -18 -44
+circle синий 23 -4 -42
+triangle синий 11 72 97 96 93 -86
+triangle зеленый 60 76 -66 43 91 -39
+triangle красный 36 0 -43 -56 -69 -86
+rectangle голубой -67 -68 -50 48
+figure зеленый
+figure синий
+circle фиолетовый 76 69 -79
+figure синий
+triangle оранжевый 87 -51 34 39 -71 -96
+figure фиолетовый
+rectangle желтый 10 -38 -81 -48
+figure красный
+triangle зеленый 78 -57 73 -45 93 73
+figure голубой
+figure красный
+rectangle оранжевый -31 63 -12 -2
+figure зеленый
+rectangle оранжевый 54 -88 72 87
+triangle синий -63 -20 -56 -64 53 83
+circle зеленый 56 -85 -14
+rectangle фиолетовый -22 19 -20 -80
+triangle зеленый 62 -7 -98 -3 96 31
+circle оранжевый 99 46 -17
+rectangle красный -87 77 -81 55
+figure красный
+circle оранжевый 79 76 20
+figure голубой
+triangle голубой 16 79 -72 -45 -22 39
+rectangle желтый 80 -62 -14 -6
+rectangle фиолетовый 38 55 -3 -10
+rectangle зеленый 45 58 53 76
+circle желтый 91 -36 29
+circle красный -73 -48 -35
+triangle оранжевый -90 -31 100 8 76 -34
+triangle зеленый 0 -53 30 51 75 -52
+figure фиолетовый
+circle желтый -69 -63 -56
+rectangle оранжевый -65 -51 -34 -31
+rectangle красный 100 -38 -79 -48
+rectangle оранжевый 51 -22 -56 -42
+circle голубой 75 -90 -66
+figure красный
+triangle желтый -63 79 42 -23 44 59
+figure зеленый
+triangle голубой -81 -17 -4 92 94 72
+rectangle фиолетовый 34 51 69 47
+circle зеленый -32 60 -51
+circle оранжевый 90 -5 14
+triangle синий -81 -77 94 60 10 -76
+triangle оранжевый 65 -21 -28 100 86 -65
+rectangle синий -22 -56 -7 67
+figure голубой
+circle синий 93 57 26
+figure голубой
+rectangle зеленый -75 -73 36 31
+figure оранжевый
+figure оранжевый
+triangle красный 81 -85 -87 -4 30 -81
+rectangle зеленый 83 -75 78 -85
+rectangle голубой -87 -96 79 51
+triangle оранжевый -5 66 76 49 54 -46
+triangle синий 19 -99 56 -68 65 11
+triangle желтый 72 -28 88 -30 -58 13
+rectangle оранжевый -40 10 1 -40
+figure красный
+circle красный -26 36 37
+circle голубой -49 5 2
+figure синий
+figure зеленый
+figure красный
+rectangle красный 16 25 40 -94
+rectangle голубой 10 48 4 -34
+circle фиолетовый -67 30 -99
+triangle голубой 21 27 29 -10 -66 61
+triangle синий -69 80 -93 -45 -32 -52
+circle зеленый 58 -65 96
+triangle красный -30 -27 100 -100 33 -67
+rectangle красный 1 -46 72 -91
+rectangle желтый 17 58 -12 -48
+circle синий 92 58 92
+rectangle красный 23 41 -84 -76
+triangle зеленый 0 9 -25 46 95 99
+rectangle красный 34 -55 69 -15
+rectangle синий -88 -94 -12 -11
+circle красный -57 85 95
+rectangle синий 45 -71 -92 -57
+circle желтый 25 78 82
+figure фиолетовый
+rectangle желтый -22 2 57 34
+figure фиолетовый
+circle красный -98 74 52
+rectangle голубой 1 -89 -3 9
+figure желтый
+circle оранжевый -93 7 87
+triangle фиолетовый -50 36 5 -3 51 31
+circle фиолетовый 38 -4 -3
+figure оранжевый
+circle оранжевый 16 -89 42
+figure красный
+triangle зеленый 1 39 37 -22 70 -97
+circle фиолетовый -58 -50 3
+triangle красный 52 -18 41 11 -37 -23
+circle зеленый -60 87 91
+rectangle оранжевый -93 56 38 -85
+figure желтый
+rectangle фиолетовый -17 -87 76 -16
+rectangle зеленый 95 60 81 50
+rectangle фиолетовый -42 -9 14 -61
+circle красный -77 98 2
+circle желтый -12 -42 -76
+triangle оранжевый 76 -86 94 -77 0 -69
+triangle зеленый 74 22 -44 97 -35 69
+triangle голубой -92 44 -14 -95 24 -28
+triangle синий -33 -18 -40 34 43 -57
+figure желтый
+figure оранжевый
+rectangle фиолетовый 8 -39 52 37
+figure синий
+figure синий
+circle голубой 0 52 -62
+triangle синий 28 -39 28 -76 -56 -73
+rectangle фиолетовый -53 -37 50 -16
+rectangle фиолетовый 54 47 65 -64
+circle голубой -48 93 -29
+rectangle оранжевый 41 12 -52 57
+rectangle зеленый -86 -26 -55 -21
+figure оранжевый
+triangle оранжевый -6 45 -11 98 66 -39
+triangle синий -51 92 9 71 4 88
+triangle зеленый -15 10 -26 24 0 -86
+rectangle оранжевый 5 87 -99 -73
+triangle красный 6 -57 0 78 -53 -68
+circle синий 70 -74 -12
+rectangle фиолетовый 67 3 52 16
+triangle красный -20 -9 4 -15 65 91
+figure фиолетовый
+figure синий
+figure зеленый
+figure красный
+rectangle голубой 61 92 -17 -37
+rectangle желтый 93 -64 -71 -10
+figure оранжевый
+triangle оранжевый -25 -38 -59 31 -44 -73
+triangle голубой 72 85 -15 -85 75 40
+triangle зеленый 82 10 -45 -51 -76 -4
+circle оранжевый 32 -9 94
+figure красный
+rectangle фиолетовый -13 72 88 -58
+triangle желтый -46 72 -25 -93 -95 74
+triangle желтый -13 24 -47 69 53 82
+triangle желтый -23 25 36 -30 -23 23
+circle оранжевый -86 -25 46
+triangle оранжевый -15 -58 -3 -58 -30 51
+triangle фиолетовый 72 -95 92 -22 90 -79
+circle голубой 5 -41 88
+triangle красный -76 -38 -46 38 -63 18
+triangle голубой 97 89 -2 -50 -16 21
+rectangle оранжевый -19 -32 100 60
+circle оранжевый 76 24 -58
+figure синий
+figure синий
+circle голубой 52 -62 -7
+circle красный 94 -81 71
+figure желтый
+triangle синий -99 -68 -3 -54 -63 -51
+figure оранжевый
+triangle фиолетовый -99 -19 -77 17 -2 55
+rectangle голубой -62 92 34 76
+figure красный
+rectangle оранжевый -58 -44 7 -35
+figure синий
+circle синий -86 28 -16
+triangle голубой 17 48 -68 -53 -1 69
+figure синий
+figure зеленый
+figure синий
+rectangle желтый -7 -74 -66 -23
+figure синий
+figure желтый
+circle фиолетовый -84 -92 99
+triangle зеленый 21 80 100 -89 39 -35
+rectangle зеленый -69 36 -52 -1
+circle фиолетовый 93 1 33
+rectangle оранжевый -83 16 -80 -20
+rectangle оранжевый 43 -46 -42 -62
+triangle фиолетовый -2 8 84 -92 6 4
+rectangle оранжевый 38 -65 -79 35
+rectangle зеленый 76 -86 11 -53
+figure оранжевый
+rectangle оранжевый 83 -74 -59 78
+figure синий
+circle фиолетовый -8 -2 5
+circle оранжевый -78 -73 -95
+triangle фиолетовый -4 89 87 -62 37 -8
+figure оранжевый
+rectangle желтый 53 -34 76 51
+figure желтый
+rectangle желтый 59 15 21 -37
+figure синий
+figure оранжевый
+rectangle желтый -55 66 -96 -60
+circle синий -13 -56 -11
+circle фиолетовый -59 -26 -29
+triangle зеленый -8 98 -62 72 87 42
+rectangle красный -23 73 -72 82
+circle желтый -18 -60 61
+triangle оранжевый -9 -99 -30 -31 -59 -46
+figure голубой
+triangle фиолетовый 40 -45 -48 54 52 10
+triangle красный 41 -12 -65 91 74 -74
+rectangle красный 85 2 11 -10
+figure оранжевый
+rectangle желтый -66 47 -96 1
+triangle голубой -96 12 58 31 37 -26
+rectangle зеленый -15 49 -10 -32
+rectangle оранжевый -30 -21 -58 -20
+rectangle желтый -3 -22 -67 11
+rectangle синий 87 -47 98 37
+rectangle желтый -12 8 -75 94
+triangle фиолетовый 41 -97 20 23 3 -98
+figure синий
+circle желтый -49 -63 5
+circle синий 89 -19 27
+circle голубой 18 -40 -71
+triangle красный 50 96 -2 25 4 8
+rectangle оранжевый 59 82 -90 10
+rectangle голубой -84 -15 -88 3
+triangle синий 97 26 -11 48 -71 77
+circle оранжевый -88 -8 -1
+triangle голубой 74 -39 31 54 73 19
+circle красный -100 61 68
+circle зеленый 63 68 -65
+figure оранжевый
+rectangle голубой 51 -29 -1 -96
+circle голубой 1 -20 -18
+rectangle голубой 78 34 -58 -91
+figure фиолетовый
+figure желтый
+triangle красный -50 -46 -14 74 -90 -86
+figure фиолетовый
+figure красный
+figure синий
+triangle зеленый 72 29 -65 16 -90 50
+circle красный -24 10 36
+triangle фиолетовый -72 72 -26 -93 -80 -60
+rectangle зеленый 9 99 -63 -45
+figure зеленый
+circle голубой 95 -39 -47
+rectangle зеленый -67 -76 -34 87
+triangle голубой 51 64 -92 11 18 49
+figure синий
+rectangle желтый 44 90 -17 -6
+circle красный 91 -90 7
+triangle голубой 75 -6 -65 -59 100 -94
+rectangle фиолетовый 76 -99 -1 69
+rectangle фиолетовый -54 -69 36 12
+circle синий -22 -29 56
+rectangle желтый -18 72 75 -21
+triangle зеленый -88 -54 -83 -52 -15 71
+triangle желтый -45 2 -61 -17 -69 87
+triangle зеленый -54 35 70 -25 7 77
+triangle синий 50 -69 -33 64 -86 -53
+triangle голубой -100 31 33 4 40 -49
+figure фиолетовый
+circle оранжевый -46 94 -44
+figure оранжевый
+rectangle синий 99 -50 -7 33
+triangle красный 72 38 -45 -17 9 6
+rectangle синий 5 -93 -34 79
+triangle голубой -40 -8 16 -73 -55 -58
+rectangle зеленый -96 -65 100 71
+triangle оранжевый 49 -30 39 -100 -47 -33
+figure красный
+circle красный 90 -89 -1
+figure фиолетовый
+triangle голубой -63 -9 -63 -64 -25 85
+triangle фиолетовый -61 -28 87 7 -5 -21
+figure желтый
+rectangle желтый 20 4 79 36
+circle синий 20 39 -58
+rectangle желтый -69 94 95 -75
+circle синий 25 -54 42
+triangle голубой 32 81 -11 -36 -6 -89
+rectangle синий -30 -46 -88 -60
+figure красный
+triangle фиолетовый 32 84 42 5 -26 50
+triangle голубой 5 7 -54 -80 -67 84
+figure красный
+circle голубой -94 -45 20
+circle желтый 37 31 73
+figure зеленый
+circle голубой -73 1 59
+figure синий
+circle синий 56 99 71
+triangle голубой 16 14 -56 -94 -98 25
+figure красный
+circle оранжевый 93 -37 -77
+rectangle желтый 55 11 -83 -47
+rectangle синий -89 -87 -83 -43
+circle красный -40 -14 -92
+triangle синий -77 25 57 38 -30 79
+triangle фиолетовый -69 32 -45 15 -78 5
+circle зеленый 96 1 65
+figure оранжевый
+triangle оранжевый -9 28 -65 11 95 -5
+rectangle голубой -70 -69 41 9
+rectangle оранжевый 38 -32 53 36
+circle желтый -81 -4 -13
+triangle фиолетовый -8 23 63 63 81 68
+figure зеленый
+triangle зеленый -18 -5 -40 98 -44 -2
+triangle синий -68 -2 -10 -15 94 -75
+circle красный -36 -57 -75
+circle оранжевый -63 85 43
+circle зеленый -92 -4 -47
+circle желтый 4 -7 -32
+circle оранжевый 27 -86 -82
+rectangle красный -62 74 65 -69
+figure голубой
+rectangle зеленый 8 96 -73 13
+triangle оранжевый -29 15 -10 23 -56 73
+figure оранжевый
+circle зеленый 29 95 -65
+triangle желтый 92 -85 0 -93 70 61
+triangle синий -61 11 -16 94 -39 -26
+rectangle зеленый 3 62 19 32
+figure желтый
+figure зеленый
+triangle фиолетовый 65 -28 24 -7 59 17
+rectangle зеленый -29 66 2 32
+triangle голубой -29 91 93 -55 -6 26
+circle желтый 3 -28 75
+figure желтый
+rectangle оранжевый 25 14 -96 -23
+triangle фиолетовый 42 55 -56 55 36 -72
+circle желтый -8 -38 -43
+figure фиолетовый
+rectangle зеленый -84 24 -44 72
+circle красный -32 -81 60
+circle голубой 43 -89 66
+triangle фиолетовый 13 -71 34 17 8 75
+rectangle красный 62 -61 -16 -59
+triangle фиолетовый -77 -6 -74 7 -45 62
+rectangle зеленый -32 -95 61 70
+figure оранжевый
+circle зеленый -32 87 -47
+triangle синий -59 87 81 -48 -44 64
+circle красный 94 -9 80
+triangle зеленый -2 86 19 -34 84 78
+triangle зеленый -98 -90 -42 -100 -39 -55
+triangle красный 40 20 37 -44 35 23
+figure фиолетовый
+figure голубой
+rectangle оранжевый -64 62 61 -99
+circle фиолетовый -20 -33 -33
+circle оранжевый -99 5 -21
+circle голубой -65 -26 96
+triangle голубой 87 78 -24 21 69 -99
+figure зеленый
+figure красный
+circle оранжевый 33 -7 41
+triangle голубой 59 -70 63 -78 -77 -96
+rectangle оранжевый 15 -45 62 79
+triangle синий 67 69 -41 79 -14 -17
+figure оранжевый
+figure синий
+triangle синий -52 -53 -82 -81 -66 3
+rectangle оранжевый -72 32 -95 -89
+triangle желтый -1 -45 -44 5 48 98
+triangle оранжевый 95 -25 43 -49 -8 95
+rectangle красный -36 -97 39 -23
+rectangle желтый -92 83 -20 -52
+rectangle голубой 30 -23 26 75
+triangle зеленый 41 -9 50 -34 -2 47
+figure желтый
+rectangle желтый -53 31 92 52
+figure желтый
+rectangle синий 33 -64 53 53
+rectangle красный -71 61 53 -26
+triangle оранжевый 14 28 -87 24 84 93
+figure синий
+rectangle зеленый 19 -58 47 23
+figure синий
+triangle голубой 23 -6 -95 98 -22 43
+figure оранжевый
+figure голубой
+figure синий
+figure красный
+rectangle красный -95 76 -45 -2
+rectangle синий -81 -86 -39 -56
+triangle оранжевый -89 -63 20 -78 -16 -26
+figure желтый
+figure фиолетовый
+rectangle зеленый 79 33 79 -50
+circle зеленый -26 80 11
+triangle зеленый 55 86 78 47 -28 53
+circle голубой -100 36 32
+rectangle желтый 43 -36 -49 30
+rectangle фиолетовый 18 -89 -24 95
+rectangle голубой -98 -57 48 -52
+circle голубой -81 -12 76
+triangle оранжевый 96 -87 62 -35 6 60
+circle красный 89 86 25
+figure желтый
+circle голубой 11 -66 -59
+rectangle голубой -47 -76 -36 -96
+figure голубой
+circle голубой 70 67 -9
+figure красный
+figure фиолетовый
+circle зеленый -54 18 -85
+figure оранжевый
+rectangle красный -99 4 86 -6
+figure зеленый
+rectangle голубой 0 65 80 -70
+rectangle фиолетовый 30 -45 -81 -69
+figure зеленый
+circle голубой -86 -7 -44
+rectangle фиолетовый 11 58 55 7
+triangle синий -23 11 -14 -59 62 88
+rectangle оранжевый 99 -82 6 -51
+rectangle фиолетовый -39 -91 -85 45
+rectangle фиолетовый -64 -79 12 93
+circle красный 52 7 -42
+circle красный -90 85 62
+figure зеленый
+rectangle зеленый -58 -35 -51 -34
+figure фиолетовый
+rectangle голубой -50 66 -51 28
+rectangle синий -93 17 13 -14
+rectangle фиолетовый 29 67 99 65
+figure оранжевый
+circle желтый -73 -40 -8
+rectangle оранжевый -28 67 36 87
+circle красный 5 -38 -77
+circle голубой -54 -60 -35
+figure синий
+triangle синий 54 -81 -89 15 58 51
+figure желтый
+circle фиолетовый 57 71 22
+figure фиолетовый
+circle фиолетовый -66 -65 64
+triangle красный 21 -99 31 2 54 -31
+rectangle синий 75 96 -20 -84
+figure зеленый
+rectangle зеленый 92 16 -8 -83
+circle фиолетовый -65 93 -72
+triangle голубой 42 44 -84 20 100 48
+rectangle желтый -59 55 92 -9
+triangle оранжевый -55 98 62 71 -9 31
+figure оранжевый
+rectangle желтый 22 -70 -8 -49
+rectangle синий 54 16 -16 -48
+triangle зеленый -26 57 28 -40 23 -45
+triangle синий 3 -42 -90 -28 -64 48
+figure зеленый
+triangle зеленый -14 -22 -58 65 -51 19
+figure оранжевый
+rectangle зеленый 18 -44 90 -51
+rectangle голубой 6 51 73 26
+figure красный
+triangle красный -95 61 80 92 46 83
+rectangle оранжевый -68 59 11 -54
+figure желтый
+circle голубой -1 86 76
+circle синий 65 59 -99
+figure красный
+circle зеленый -89 -83 -98
+rectangle оранжевый -40 -36 -3 -89
+rectangle голубой -60 -89 65 -26
+triangle желтый -59 40 33 -35 -6 -53
+triangle фиолетовый 78 11 26 -75 55 81
+triangle красный 42 -93 45 -4 -78 -70
+figure синий
+circle желтый -51 -13 41
+triangle голубой 93 -21 0 -22 -68 91
+circle синий 80 15 -56
+rectangle фиолетовый 95 27 64 -3
+rectangle красный 59 -45 86 37
+rectangle фиолетовый 60 -5 -70 96
+figure фиолетовый
+circle фиолетовый -87 -11 20
+triangle фиолетовый 25 3 -5 -32 -44 0
+triangle желтый -13 84 -70 33 -95 0
+circle желтый 66 -42 -12
+rectangle желтый 3 -53 52 -8
+rectangle фиолетовый -18 93 100 34
+figure желтый
+circle красный 89 -66 59
+figure оранжевый
+triangle желтый 1 98 -80 -5 -41 99
+figure синий
+rectangle голубой -91 -40 3 30
+figure оранжевый
+circle красный -29 28 -89
+figure красный
+triangle красный -1 17 81 -88 -59 14
+triangle желтый 77 -2 -90 48 -50 59
+rectangle зеленый -14 86 3 -95
+figure желтый
+figure желтый
+rectangle голубой 9 -57 89 -96
+circle оранжевый -68 81 60
+circle красный -39 -50 -99
+circle голубой 80 -24 73
+circle желтый 57 71 -44
+rectangle синий 45 23 84 -88
+figure голубой
+circle зеленый -48 -24 -69
+circle желтый -9 67 -7
+rectangle фиолетовый -88 36 70 15
+rectangle зеленый -70 78 24 -27
+figure красный
+triangle зеленый 31 20 -86 5 -44 -9
+rectangle фиолетовый -90 21 45 72
+rectangle фиолетовый -25 -28 -74 81
+circle синий -9 91 10
+triangle голубой 87 75 92 -2 55 -62
+circle оранжевый 75 -54 -21
+circle желтый 5 45 -11
+figure желтый
+figure синий
+figure синий
+circle оранжевый -6 -49 33
+rectangle оранжевый 93 1 -93 68
+rectangle синий -23 66 30 88
+rectangle зеленый 67 -23 -48 -91
+circle голубой -26 -82 -46
+rectangle зеленый 67 -74 -33 1
+triangle оранжевый -61 -36 -81 8 -86 57
+figure желтый
+triangle оранжевый -31 -45 0 -81 19 2
+triangle фиолетовый 76 -50 -17 -4 99 7
+triangle красный 23 80 47 -40 -37 24
+circle фиолетовый -28 -38 82
+triangle красный 22 -12 -88 -72 -51 -25
+circle зеленый 69 98 93
+figure синий
+circle фиолетовый 11 83 -83
+figure фиолетовый
+circle оранжевый 55 82 -33
+circle желтый 85 93 -80
+circle синий -25 56 -13
+circle красный -48 -87 46
+rectangle желтый -50 -66 -3 14
+figure зеленый
+rectangle желтый 1 -97 -27 -26
+figure оранжевый
+figure оранжевый
+rectangle желтый -33 -1 -19 83
+circle фиолетовый -49 -37 -2
+triangle желтый -70 -89 -68 -50 35 -66
+triangle зеленый -82 17 95 74 -41 73
+circle красный 40 85 -2
+rectangle оранжевый 62 2 66 9
+circle синий 12 -31 -37
+figure красный
+triangle желтый -31 -77 -5 -58 -82 45
+circle фиолетовый -50 -94 95
+circle красный 13 -19 65
+figure зеленый
+circle голубой -93 51 81
+circle фиолетовый -76 -83 -37
+figure голубой
+circle желтый -65 42 81
+figure голубой
+triangle зеленый 68 -21 -19 -6 50 -64
+figure оранжевый
+triangle зеленый 65 -85 95 84 2 74
+rectangle фиолетовый -54 -82 65 -81
+triangle фиолетовый 9 94 -69 -40 -5 -13
+triangle синий 40 -69 -6 14 -75 -16
+triangle голубой -51 -61 71 -29 25 19
+triangle зеленый -93 -23 -4 71 -74 -3
+rectangle красный 43 40 88 96
+triangle фиолетовый -70 11 -70 -90 60 -77
+triangle зеленый -99 -90 66 -59 95 30
+circle синий 13 12 -2
+circle желтый -46 93 -67
+triangle голубой -42 -87 -10 29 -19 -10
+circle фиолетовый -73 22 -11
+figure синий
+figure желтый
+circle желтый 81 -64 27
+figure желтый
+figure зеленый
+triangle фиолетовый -9 42 81 98 -69 -99
+figure зеленый
+circle фиолетовый -56 -44 29
+rectangle синий -14 30 -64 33
+circle оранжевый 63 -42 -31
+circle голубой 18 83 -61
+rectangle фиолетовый 60 -98 38 28
+rectangle красный -96 14 -94 0
+triangle синий 16 -62 58 17 45 -82
+rectangle желтый -53 65 -58 37
+figure зеленый
+circle желтый -26 -92 -61
+triangle желтый -93 -1 -100 -31 -14 -70
+triangle зеленый 95 -38 -2 36 57 -25
+figure красный
+rectangle голубой 22 -9 39 -13
+figure голубой
+figure желтый
+rectangle зеленый -52 -29 66 -18
+triangle синий -31 19 -38 -73 -69 20
+rectangle оранжевый -26 -42 -69 43
+circle оранжевый 48 -61 -39
+triangle оранжевый -19 -47 -82 85 33 74
+figure желтый
+rectangle оранжевый -49 -30 99 26
+rectangle синий -13 -47 -91 71
+triangle фиолетовый -83 -89 26 -67 63 -50
+circle синий 52 -63 -97
+circle голубой 89 27 -54
+rectangle красный -1 3 31 -69
+rectangle фиолетовый -68 18 -96 62
+triangle фиолетовый 79 -18 -46 -74 -53 24
+circle фиолетовый -35 99 66
+figure фиолетовый
+triangle желтый -99 -68 52 -34 100 40
+triangle оранжевый 18 46 -52 83 -45 35
+triangle красный -42 82 39 -64 89 89
+figure желтый
+figure красный
+triangle оранжевый -58 -4 95 38 61 -86
+rectangle голубой 100 46 -35 22
+rectangle красный 26 -60 -5 -82
+circle зеленый -66 31 -48
+triangle оранжевый -23 82 99 -1 -38 52
+triangle синий -39 74 -25 91 -26 72
+circle красный -11 22 52
+triangle желтый -100 -12 -86 41 -25 87
+triangle оранжевый -52 22 80 -100 54 -10
+figure синий
+figure зеленый
+rectangle желтый -41 53 -69 64
+figure желтый
+rectangle фиолетовый -76 97 -36 35
+triangle синий -83 -40 42 6 32 52
+rectangle желтый 46 4 -53 59
+rectangle фиолетовый -23 -52 -36 -71
+figure зеленый
+triangle красный -92 -17 1 -17 61 16
+rectangle красный 12 81 -72 41
+triangle оранжевый -63 21 36 45 -14 -13
+circle желтый 88 -71 -31
+triangle красный -77 -33 -17 -25 -79 41
+figure синий
+figure желтый
+rectangle оранжевый 26 20 -56 44
+circle зеленый 83 -54 62
+figure синий
+rectangle синий 1 -50 -69 5
+figure голубой
+circle оранжевый -4 -71 -48
+rectangle желтый -80 0 59 92
+triangle оранжевый -54 91 -33 -16 -25 39
+rectangle голубой 46 -11 -25 -99
+circle синий 42 77 -74
+rectangle красный -19 61 -30 -42
+figure фиолетовый
+figure оранжевый
+triangle красный -69 -47 -2 -16 19 25
+rectangle голубой -43 -8 70 90
+figure голубой
+rectangle оранжевый 53 -33 95 -87
+figure оранжевый
+triangle синий 29 90 12 31 82 -18
+circle желтый -47 81 3
+circle синий 100 59 -51
+circle желтый -93 -46 -81
+triangle синий 91 15 -61 67 31 30
+triangle красный -77 -34 23 12 37 -82
+circle красный 23 66 97
+figure фиолетовый
+figure фиолетовый
+triangle голубой 78 -77 -99 -99 -50 21
+figure синий
+figure синий
+rectangle голубой -41 93 -29 30
+triangle голубой 99 -82 60 -27 91 -13
+circle голубой -36 11 86
+rectangle красный 92 -53 -32 23
+rectangle оранжевый -45 27 43 11
+triangle красный -76 76 -73 -94 8 98
+figure красный
+figure оранжевый
+rectangle голубой 52 69 35 -40
+rectangle зеленый -16 95 -65 -38
+triangle красный -88 -96 34 -57 -57 29
+rectangle синий 29 79 -43 77
+rectangle оранжевый -18 7 59 -5
+triangle зеленый 79 41 -13 -61 -67 51
+triangle зеленый -72 -37 55 90 34 40
+figure фиолетовый
+triangle фиолетовый 88 48 -71 -39 34 -18
+rectangle желтый 89 18 81 -15
+figure голубой
+figure оранжевый
+rectangle фиолетовый -92 -6 6 -49
+circle желтый -19 23 -11
+circle красный -87 74 75
+figure оранжевый
+triangle красный 68 35 -79 61 67 41
+circle желтый -46 -47 20
+triangle желтый 46 91 -39 31 67 -45
+circle зеленый -2 29 -49
+figure красный
+rectangle красный -56 -7 12 -53
+figure оранжевый
+rectangle желтый 31 -39 -52 98
+rectangle красный 49 59 -34 -34
+circle синий -84 -42 -66
+circle фиолетовый -25 -18 -31
+triangle синий -63 13 63 15 75 70
+triangle голубой 53 82 -45 -78 -77 -1
+circle синий 41 22 98
+circle зеленый -34 -22 -51
+rectangle оранжевый -25 100 1 -40
