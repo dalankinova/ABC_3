@@ -1,5 +1,6 @@
 # Даланкинова Эмма Бпи205
 # Вариант 1 и 14
+# перед запуском надо скачать библиотеку pip install memory_profiler
 import read_write
 from shell_sorting import shell_sort_by_area
 import sys
